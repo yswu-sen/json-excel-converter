@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import streamlit as st
 import io  # 用於在記憶體中處理二進位資料流
+import os  # 
 from datetime import datetime
 
 # --- Excel 格式化函式庫 ---
